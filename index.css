@@ -28,9 +28,9 @@
             margin-bottom: 1em;
         }
         .profile img {
-            border-radius: 50%;
-            width: 120px;
-            height: 130px;
+            border-radius: 30%;
+            /* width: 120px;
+            height: 130px; */
         }
 
      
